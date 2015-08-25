@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_red">#B51010</color>
+    <color name="darkBlue">#015f96</color>
+    <color name="white">#fff</color>
+    <color name="tabBackGround">#E5E5E5</color>
+    <color name="regformbackcolor">#ECECEC</color>
+    <color name="charcoalColor">#333333</color>
+</resources>
